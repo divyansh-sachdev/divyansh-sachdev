@@ -1,2 +1,3 @@
 - **2026-07-01 19:11:43**: feat: add hardware failsafe watchdog timer routine
 - **2026-07-04 17:44:35**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-07-05 21:09:25**: feat: implement low-power light sleep mode during idle intervals
