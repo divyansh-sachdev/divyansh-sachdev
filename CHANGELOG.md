@@ -3,3 +3,4 @@
 - **2026-07-05 21:09:25**: feat: implement low-power light sleep mode during idle intervals
 - **2026-07-12 11:44:34**: docs: update README setup instructions and dependencies
 - **2026-07-13 19:42:19**: feat: add EEPROM configuration persistence for user settings
+- **2026-07-14 16:34:26**: refactor: optimize ADC sampling window and reduce jitter
