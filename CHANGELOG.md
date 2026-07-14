@@ -4,3 +4,4 @@
 - **2026-07-12 11:44:34**: docs: update README setup instructions and dependencies
 - **2026-07-13 19:42:19**: feat: add EEPROM configuration persistence for user settings
 - **2026-07-14 16:34:26**: refactor: optimize ADC sampling window and reduce jitter
+- **2026-07-14 20:15:14**: docs: clarify licensing and hardware bill of materials
