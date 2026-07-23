@@ -7,3 +7,4 @@
 - **2026-07-14 20:15:14**: docs: clarify licensing and hardware bill of materials
 - **2026-07-15 18:49:26**: docs: add circuit wiring pinout and power consumption profile
 - **2026-07-17 16:49:28**: docs: clarify licensing and hardware bill of materials
+- **2026-07-23 10:42:33**: fix: calibrate baseline sensor offset against reference multimeter
