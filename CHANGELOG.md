@@ -9,3 +9,4 @@
 - **2026-07-17 16:49:28**: docs: clarify licensing and hardware bill of materials
 - **2026-07-23 10:42:33**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-07-24 16:25:36**: refactor: simplify state machine transition logic
+- **2026-07-28 11:34:14**: test: validate thermal stability over continuous 6-hour test run
