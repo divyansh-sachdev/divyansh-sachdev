@@ -11,3 +11,4 @@
 - **2026-07-24 16:25:36**: refactor: simplify state machine transition logic
 - **2026-07-28 11:34:14**: test: validate thermal stability over continuous 6-hour test run
 - **2026-07-28 14:53:24**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-07-30 18:05:26**: feat: add hardware failsafe watchdog timer routine
