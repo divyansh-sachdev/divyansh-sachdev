@@ -12,3 +12,4 @@
 - **2026-07-28 11:34:14**: test: validate thermal stability over continuous 6-hour test run
 - **2026-07-28 14:53:24**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-07-30 18:05:26**: feat: add hardware failsafe watchdog timer routine
+- **2026-07-31 17:48:26**: docs: add circuit wiring pinout and power consumption profile
