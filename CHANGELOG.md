@@ -16,3 +16,4 @@
 - **2026-08-04 18:12:18**: docs: document serial protocol packet structure and error codes
 - **2026-08-04 19:49:29**: refactor: modularize signal processing functions into separate header
 - **2026-08-13 10:30:27**: refactor: clean up debug logs and serial telemetry
+- **2026-08-13 17:39:32**: test: benchmark inference execution speed on ESP32 dual-core
