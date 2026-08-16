@@ -17,3 +17,4 @@
 - **2026-08-04 19:49:29**: refactor: modularize signal processing functions into separate header
 - **2026-08-13 10:30:27**: refactor: clean up debug logs and serial telemetry
 - **2026-08-13 17:39:32**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-08-16 21:18:14**: refactor: clean up debug logs and serial telemetry
