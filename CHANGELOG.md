@@ -18,3 +18,4 @@
 - **2026-08-13 10:30:27**: refactor: clean up debug logs and serial telemetry
 - **2026-08-13 17:39:32**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-08-16 21:18:14**: refactor: clean up debug logs and serial telemetry
+- **2026-08-18 14:55:48**: feat: implement low-power light sleep mode during idle intervals
