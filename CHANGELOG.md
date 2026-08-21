@@ -20,3 +20,4 @@
 - **2026-08-16 21:18:14**: refactor: clean up debug logs and serial telemetry
 - **2026-08-18 14:55:48**: feat: implement low-power light sleep mode during idle intervals
 - **2026-08-20 11:47:11**: perf: optimize memory footprint by reducing ring buffer depth
+- **2026-08-21 10:16:26**: docs: update README setup instructions and dependencies
