@@ -22,3 +22,4 @@
 - **2026-08-20 11:47:11**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-08-21 10:16:26**: docs: update README setup instructions and dependencies
 - **2026-08-22 17:37:47**: fix: resolve floating point conversion precision issue
+- **2026-08-22 18:38:17**: docs: update README setup instructions and dependencies
