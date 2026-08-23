@@ -24,3 +24,4 @@
 - **2026-08-22 17:37:47**: fix: resolve floating point conversion precision issue
 - **2026-08-22 18:38:17**: docs: update README setup instructions and dependencies
 - **2026-08-23 10:08:40**: docs: document serial protocol packet structure and error codes
+- **2026-08-23 15:44:12**: feat: add EEPROM configuration persistence for user settings
