@@ -25,3 +25,4 @@
 - **2026-08-22 18:38:17**: docs: update README setup instructions and dependencies
 - **2026-08-23 10:08:40**: docs: document serial protocol packet structure and error codes
 - **2026-08-23 15:44:12**: feat: add EEPROM configuration persistence for user settings
+- **2026-08-25 19:50:38**: fix: handle edge case timeout in sensor initialization loop
