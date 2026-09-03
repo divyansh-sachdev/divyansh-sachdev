@@ -28,3 +28,4 @@
 - **2026-08-25 19:50:38**: fix: handle edge case timeout in sensor initialization loop
 - **2026-08-28 11:55:17**: feat: add EEPROM configuration persistence for user settings
 - **2026-08-28 20:43:37**: feat: implement low-power light sleep mode during idle intervals
+- **2026-09-03 14:48:40**: docs: update README setup instructions and dependencies
