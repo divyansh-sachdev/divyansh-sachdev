@@ -30,3 +30,4 @@
 - **2026-08-28 20:43:37**: feat: implement low-power light sleep mode during idle intervals
 - **2026-09-03 14:48:40**: docs: update README setup instructions and dependencies
 - **2026-09-04 17:13:45**: test: validate thermal stability over continuous 6-hour test run
+- **2026-09-05 20:26:17**: perf: tune I2C bus frequency to 400kHz for sensor polling
