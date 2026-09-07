@@ -32,3 +32,4 @@
 - **2026-09-04 17:13:45**: test: validate thermal stability over continuous 6-hour test run
 - **2026-09-05 20:26:17**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-09-06 21:37:23**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2026-09-07 15:11:32**: feat: implement moving average filter for noise suppression
