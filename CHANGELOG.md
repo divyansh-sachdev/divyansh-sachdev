@@ -34,3 +34,4 @@
 - **2026-09-06 21:37:23**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-09-07 15:11:32**: feat: implement moving average filter for noise suppression
 - **2026-09-07 20:28:17**: refactor: simplify state machine transition logic
+- **2026-09-09 20:54:49**: fix: calibrate baseline sensor offset against reference multimeter
