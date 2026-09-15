@@ -40,3 +40,4 @@
 - **2026-09-11 21:47:35**: test: verify timer interrupt latency under heavy load
 - **2026-09-12 19:26:20**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-09-15 18:22:23**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-09-15 20:12:32**: refactor: optimize ADC sampling window and reduce jitter
