@@ -39,3 +39,4 @@
 - **2026-09-10 16:06:21**: feat: implement moving average filter for noise suppression
 - **2026-09-11 21:47:35**: test: verify timer interrupt latency under heavy load
 - **2026-09-12 19:26:20**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-09-15 18:22:23**: fix: calibrate baseline sensor offset against reference multimeter
