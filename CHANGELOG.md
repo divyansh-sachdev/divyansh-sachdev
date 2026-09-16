@@ -41,3 +41,4 @@
 - **2026-09-12 19:26:20**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-09-15 18:22:23**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-09-15 20:12:32**: refactor: optimize ADC sampling window and reduce jitter
+- **2026-09-16 16:07:24**: test: benchmark inference execution speed on ESP32 dual-core
