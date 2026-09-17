@@ -43,3 +43,4 @@
 - **2026-09-15 20:12:32**: refactor: optimize ADC sampling window and reduce jitter
 - **2026-09-16 16:07:24**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-09-16 21:36:43**: refactor: clean up debug logs and serial telemetry
+- **2026-09-17 16:23:30**: feat: add visual status LED pulse code for diagnostic mode
