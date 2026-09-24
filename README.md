@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f3ff,50:0066ff,100:9d00ff&height=220&section=header&text=DIVYANSH%20SACHDEV&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20AI%20%2B%20Robotics%20(Hardware%20%26%20Software)&descAlignY=62&descAlign=50" width="800" alt="Header Banner" />
-
   <br /><br />
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=AI+Developer+%7C+Artificial+Intelligence+%2B+Robotics;90%2B+National+%26+International+Competition+Wins;AI+in+Hardware+%2B+Software+%7C+Embedded+%2F+Applied+AI;Computer+Vision+%7C+Autonomous+Systems+%7C+Machine+Learning" alt="Typing SVG" />
