@@ -18,6 +18,10 @@
     <a href="https://github.com/divyansh-sachdev">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
+    <a href="https://divyansh-sachdev.github.io/portfolio/Divyansh_Sachdev_Resume.pdf">
+      <img src="https://img.shields.io/badge/Resume-00F3FF?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Resume" />
+    </a>
   </p>
 
 </div>
@@ -40,6 +44,7 @@ Engineer Specs:
   Contact:
     Email: divyanshsachdev3@gmail.com
     LinkedIn: linkedin.com/in/divyansh-sachdev
+    Resume: divyansh-sachdev.github.io/portfolio/Divyansh_Sachdev_Resume.pdf
 ```
 
 ---
