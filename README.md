@@ -204,6 +204,9 @@ Engineer Specs:
 | 🚗 [**DriveSafe AI Co-Pilot**](https://github.com/divyansh-sachdev/drivesafe-ai-copilot) | Edge-AI vehicle safety system detecting driver fatigue, distraction, and accident risks in real time |
 | 🏠 [**SmartShield AI Security Hub**](https://github.com/divyansh-sachdev/smartshield-ai-security) | Intelligent surveillance platform using computer vision for intrusion detection, threat classification, and anomaly tracking |
 | 🤖 [**VisionAI Assist Robot**](https://github.com/divyansh-sachdev/vision-ai-assist-robot) | Autonomous AI robot capable of object recognition, voice interaction, navigation, and contextual decision-making |
+| 🦺 [**PPE Safety Detection Pipeline**](https://github.com/divyansh-sachdev/ppe-safety-detection-pipeline) | Real-time PPE compliance detection with YOLOv11 and CUDA-accelerated inference — 96.5% mAP@50, cutting manual safety audit overhead by 75% |
+| 🧠 [**Enterprise GenAI RAG Knowledge Engine**](https://github.com/divyansh-sachdev/genai-rag-knowledge-engine) | Self-hosted RAG engine on Llama 3 8B with custom vector search — 65% faster retrieval, sub-1.2s streaming responses, zero external API dependencies |
+| 📷 [**TinyML Object Detection (ESP32-CAM)**](https://github.com/divyansh-sachdev/esp32cam-tinyml-object-detection) | INT8-quantized TFLite Micro detector running standalone on ESP32-CAM — 48ms inference within 80KB SRAM |
 
 ### 📂 OPEN-SOURCE REPOSITORIES
 
@@ -219,19 +222,20 @@ Engineer Specs:
 | 🍽️ **[nutrivision-ai-plate](https://github.com/divyansh-sachdev/nutrivision-ai-plate)** | Smart dining plate with edge computer vision food classification & portion weighing | `ESP32-CAM` `HX711` `Edge AI` | [Repo ↗](https://github.com/divyansh-sachdev/nutrivision-ai-plate) |
 | 🧒 **[childcare-ai-guardian](https://github.com/divyansh-sachdev/childcare-ai-guardian)** | Pediatric band detecting fevers, crying stress, and vitals via sensor fusion | `ESP32` `MLX90614` `GSR` | [Repo ↗](https://github.com/divyansh-sachdev/childcare-ai-guardian) |
 | 🌍 **[ecomind-ai-station](https://github.com/divyansh-sachdev/ecomind-ai-station)** | Autonomous environmental hub forecasting PM2.5, gases, and microclimate trends | `ESP32` `PMS5003` `BME280` | [Repo ↗](https://github.com/divyansh-sachdev/ecomind-ai-station) |
-| 🚗 **[drivesafe-ai-copilot](https://github.com/divyansh-sachdev/drivesafe-ai-copilot)** | Computer vision driver drowsiness and distraction detector with haptic alert | `Python` `OpenCV` `ESP32` | [Repo ↗](https://github.com/divyansh-sachdev/drivesafe-ai-copilot) |
+| 🚗 **[drivesafe-ai-copilot](https://github.com/divyansh-sachdev/drivesafe-ai-copilot)** | Real-time driver drowsiness & fatigue detector — under 1.5% false alarm rate across 468 3D facial landmark meshes | `Python` `MediaPipe` `OpenCV` `PyTorch` `SciPy` | [Repo ↗](https://github.com/divyansh-sachdev/drivesafe-ai-copilot) |
 | 🏠 **[smartshield-ai-security](https://github.com/divyansh-sachdev/smartshield-ai-security)** | Low-power PIR wake-up surveillance system with edge person classification | `ESP32-CAM` `PIR` `Telegram` | [Repo ↗](https://github.com/divyansh-sachdev/smartshield-ai-security) |
 | 🤖 **[vision-ai-assist-robot](https://github.com/divyansh-sachdev/vision-ai-assist-robot)** | Autonomous companion robot with visual person tracking and ultrasonic navigation | `ESP32` `OpenCV` `ToF` | [Repo ↗](https://github.com/divyansh-sachdev/vision-ai-assist-robot) |
 | 🧠 **[job-classifier](https://github.com/divyansh-sachdev/job-classifier)** | ML-based classification project | `Python` | [Repo ↗](https://github.com/divyansh-sachdev/job-classifier) |
+| 🦺 **[ppe-safety-detection-pipeline](https://github.com/divyansh-sachdev/ppe-safety-detection-pipeline)** | Real-time PPE compliance detection — 96.5% mAP@50, -75% manual audit overhead | `PyTorch` `YOLOv11` `OpenCV` `FastAPI` `Docker` | [Repo ↗](https://github.com/divyansh-sachdev/ppe-safety-detection-pipeline) |
+| 🧠 **[genai-rag-knowledge-engine](https://github.com/divyansh-sachdev/genai-rag-knowledge-engine)** | Self-hosted enterprise RAG engine — 65% faster retrieval, sub-1.2s streaming responses | `Llama 3 8B` `LangChain` `ChromaDB` `FastAPI` | [Repo ↗](https://github.com/divyansh-sachdev/genai-rag-knowledge-engine) |
+| 📷 **[esp32cam-tinyml-object-detection](https://github.com/divyansh-sachdev/esp32cam-tinyml-object-detection)** | Standalone edge object detection — 48ms inference within 80KB SRAM | `TFLite Micro` `C++` `ESP32` `INT8 Quantization` | [Repo ↗](https://github.com/divyansh-sachdev/esp32cam-tinyml-object-detection) |
 
 ---
 
 ### 📄 PUBLICATIONS
 
-<!-- TODO: send me the paper titles + links (IEEE Xplore link for the magazine one) and I'll fill this in with real citations -->
-
-- Research paper (single author) — *[title / link pending]*
-- IEEE Magazine publication — *[title / link pending]*
+- **[TechniQuilt — A Framework for Web Developers](https://www.eurchembull.com/archives/volume-11/issue-12/12577)** — *European Chemical Bulletin*, Vol. 11, Issue 12 (2023) · DOI: [10.48047/ecb/2023.11.12.019](https://doi.org/10.48047/ecb/2023.11.12.019)
+- **[Smart Indoor Air Quality Monitoring Device with Automated Threshold-Based Control](https://ieeexplore.ieee.org/document/11365921)** — IEMECON 2025, IEEE · DOI: [10.1109/IEMECON69302.2025.11365921](https://doi.org/10.1109/IEMECON69302.2025.11365921)
 
 ---
 
