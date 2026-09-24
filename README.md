@@ -7,13 +7,11 @@
   <br /><br />
 
   <p align="center">
-    <!-- TODO: replace with your real LinkedIn URL -->
-    <a href="https://linkedin.com/in/REPLACE-ME">
+    <a href="https://www.linkedin.com/in/divyansh-sachdev/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <!-- TODO: replace with your real email -->
-    <a href="mailto:REPLACE-ME@example.com">
+    <a href="mailto:divyanshsachdev3@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
@@ -39,7 +37,19 @@ Engineer Specs:
     - Machine Learning / Deep Learning
   Achievements:
     - 90+ Competition Wins across National & International AI / Robotics events
+  Contact:
+    Email: divyanshsachdev3@gmail.com
+    LinkedIn: linkedin.com/in/divyansh-sachdev
 ```
+
+---
+
+### 💼 EXPERIENCE
+
+| Role | Organisation | Period | Focus |
+| :--- | :--- | :---: | :--- |
+| **Frontend Engineer** | Paysecure | 2025 — Present | Building and maintaining production frontend systems |
+| **Founder** | Shunya | 2023 — 2025 | Founded and led an AI & robotics studio — shipped 30+ projects spanning combat robots, autonomous systems and embedded AI wearables |
 
 ---
 
